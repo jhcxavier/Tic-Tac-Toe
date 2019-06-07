@@ -112,7 +112,9 @@ class App extends Component {
 			<div className="container">
 				<div className="menu">
 					<h1>Tic Tac Toe</h1>
+
 					<Announcement winner={this.state.winner} />
+
 					<ResetButton reset={this.resetBoard.bind(this)} />
 				</div>
 				{this.state.gameBoard.map(
