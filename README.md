@@ -4,7 +4,6 @@
   </a>
 </p>
 
-This template its similar to create-react-app but is meant for 4Geeks Academy students.
 
 ##### Download the boilerplate using the BreatheCode CLI
 ```
